@@ -22,4 +22,4 @@ client.on('message', message => {
 
 });
 
-client.login(process.env.suXx-hB3Ec4JcqIiCUsdwDbjhg9uQvG1);
+client.login(process.env.NjU0OTQyNTg2Mzc2ODE0NjAy.XoZnCg.JW40o_-ZKKfQtK9cbeX3aLR4hFk);
